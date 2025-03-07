@@ -1,5 +1,9 @@
-# Visual Studio 2015 user specific files
+# Visual Studio user-specific files
 .vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
 # Compiled Object files
 *.slo
@@ -72,3 +76,46 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Unreal Engine-specific ignores
+Unbreakable_Phone/Binaries/
+Unbreakable_Phone/Build/
+Unbreakable_Phone/DerivedDataCache/
+Unbreakable_Phone/Intermediate/
+Unbreakable_Phone/Saved/
+Unbreakable_Phone/.vs/
+
+# Ignore log files
+*.log
+
+# Ignore crash reports
+Unbreakable_Phone/Saved/Crashes/
+Unbreakable_Phone/Saved/Logs/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Linux system files
+*.swp
+*.swo
+
+# Ignore backup files
+*.bak
+*.tmp
+*.old
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore Unreal Engine auto-generated config files
+Unbreakable_Phone/Config/DefaultEditorPerProjectUserSettings.ini
+Unbreakable_Phone/Config/DefaultEditor.ini
+Unbreakable_Phone/Config/DefaultGame.ini
+Unbreakable_Phone/Config/DefaultEngine.ini
+
+# Keep necessary assets
+!Unbreakable_Phone/Content/
+!Unbreakable_Phone/Source/
+
+# Keep custom configuration files
+!Unbreakable_Phone/Config/
