@@ -5,7 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/Animations/Player/Locomotion.uasset",
+				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/Animations/Player/Run_RightFwd.uasset",
+				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/Animations/Player/Run_RightBack.uasset",
+				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/Animations/Player/Run_Right.uasset",
+				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/Animations/Player/Run_LeftFwd.uasset",
+				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/Animations/Player/Run_LeftBack.uasset",
+				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/Animations/Player/Run_Left.uasset",
+				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/Animations/Player/Run_Fwd.uasset",
+				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/Animations/Player/Run_Back.uasset",
+				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/Animations/Player/Locomotion_BP.uasset"
 			]
 		}
 	]
