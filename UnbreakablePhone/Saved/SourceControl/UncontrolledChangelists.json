@@ -5,37 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/leona/RiderProjects/PJ3D/UnbreakablePhone/Content/DamageSystem/Player/BP_Player.uasset",
-				"C:/Users/leona/RiderProjects/PJ3D/UnbreakablePhone/Content/DamageSystem/Enemy/BP_Enemy.uasset",
-				"C:/Users/leona/RiderProjects/PJ3D/UnbreakablePhone/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"C:/Users/leona/RiderProjects/PJ3D/UnbreakablePhone/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/IR/6MZ6AHU3G8C036DDZMTZK7.uasset",
-				"C:/Users/leona/RiderProjects/PJ3D/UnbreakablePhone/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/MI/XLQBFJ2T5UBP1NZY25K27M.uasset",
-				"C:/Users/leona/RiderProjects/PJ3D/UnbreakablePhone/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/AS/TBE5T3YFZP8WCAZLCF6K60.uasset",
-				"C:/Users/leona/RiderProjects/PJ3D/UnbreakablePhone/Content/DamageSystem/Enemy/Anim_EnemyMovement.uasset",
-				"C:/Users/leona/RiderProjects/PJ3D/UnbreakablePhone/Content/DamageSystem/Player/H2H_PunchCombo01.uasset",
-				"C:/Users/leona/RiderProjects/PJ3D/UnbreakablePhone/Content/RamsterZ_FreeAnims_Volume1/AnimationSequence/H2H/H2H_PunchCombo01.uasset",
-				"C:/Users/leona/RiderProjects/PJ3D/UnbreakablePhone/Content/DamageSystem/Player/H2H_PunchCombo01_Montage.uasset",
-				"C:/Users/leona/RiderProjects/PJ3D/UnbreakablePhone/Content/Animations/Player/Locomotion_BP.uasset",
-				"C:/Users/leona/RiderProjects/PJ3D/UnbreakablePhone/Content/DamageSystem/Player/BP_ThirdPersonCharacter1.uasset",
-=======
-				"C:/Users/andre/Desktop/PJ3D/UnbreakablePhone/Content/Blueprints/BP_ThrowablePhone.uasset",
-				"C:/Users/andre/Desktop/PJ3D/UnbreakablePhone/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/andre/Desktop/PJ3D/UnbreakablePhone/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
-				"C:/Users/andre/Desktop/PJ3D/UnbreakablePhone/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
->>>>>>> origin/main
-				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/Animations/Player/Locomotion.uasset",
-				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/Animations/Player/Run_RightFwd.uasset",
-				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/Animations/Player/Run_RightBack.uasset",
-				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/Animations/Player/Run_Right.uasset",
-				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/Animations/Player/Run_LeftFwd.uasset",
-				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/Animations/Player/Run_LeftBack.uasset",
-				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/Animations/Player/Run_Left.uasset",
-				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/Animations/Player/Run_Fwd.uasset",
-				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/Animations/Player/Run_Back.uasset",
-				"D:/Game Dev/PJ3D/UnbreakablePhone/Content/Animations/Player/Locomotion_BP.uasset"
+				"C:/Users/leona/RiderProjects/PJ3D/UnbreakablePhone/Content/ThirdPerson/Blueprints/BP_Player.uasset"
 			]
 		}
 	]
