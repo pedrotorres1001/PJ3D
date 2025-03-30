@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/andre/Desktop/PJ3D/UnbreakablePhone/Content/DamageSystem/Player/BP_Player.uasset",
+				"C:/Users/andre/Desktop/PJ3D/UnbreakablePhone/Content/Blueprints/BP_ThrowablePhone.uasset",
 				"C:/Users/leona/RiderProjects/PJ3D/UnbreakablePhone/Content/ThirdPerson/Blueprints/BP_Player.uasset"
 			]
 		}
