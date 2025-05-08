@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/leona/RiderProjects/PJ3D/UnbreakablePhone/Content/DamageSystem/Drone/Projectiles/Drone_Projectile_01.uasset",
+				"C:/Users/leona/RiderProjects/PJ3D/UnbreakablePhone/Content/DamageSystem/Drone/BP_Drone_01.uasset",
+				"C:/Users/leona/RiderProjects/PJ3D/UnbreakablePhone/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/QL/YL3UURC829PCMGF7BX46SI.uasset",
+				"C:/Users/leona/RiderProjects/PJ3D/UnbreakablePhone/Content/DamageSystem/Drone/BP_DroneBase.uasset",
+				"C:/Users/leona/RiderProjects/PJ3D/UnbreakablePhone/Content/DamageSystem/Drone/Projectiles/Drone_ProjectileBase.uasset",
+				"C:/Users/leona/RiderProjects/PJ3D/UnbreakablePhone/Content/DamageSystem/Player/BP_Player.uasset",
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
 				"/Users/pedrotorres1010/Documents/GitHub/PJ3D/UnbreakablePhone/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"/Users/pedrotorres1010/Documents/GitHub/PJ3D/UnbreakablePhone/Content/DamageSystem/Drone/BP_DroneBase.uasset",
 				"C:/Users/andre/Desktop/PJ3D/UnbreakablePhone/Content/DamageSystem/Player/BP_Player.uasset",
