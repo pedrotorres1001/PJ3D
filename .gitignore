@@ -78,19 +78,19 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Unreal Engine-specific ignores
-Unbreakable_Phone/Binaries/
-Unbreakable_Phone/Build/
-Unbreakable_Phone/DerivedDataCache/
-Unbreakable_Phone/Intermediate/
-Unbreakable_Phone/Saved/
-Unbreakable_Phone/.vs/
+UnbreakablePhone/Binaries/
+UnbreakablePhone/Build/
+UnbreakablePhone/DerivedDataCache/
+UnbreakablePhone/Intermediate/
+UnbreakablePhone/Saved/
+UnbreakablePhone/.vs/
 
 # Ignore log files
 *.log
 
 # Ignore crash reports
-Unbreakable_Phone/Saved/Crashes/
-Unbreakable_Phone/Saved/Logs/
+UnbreakablePhone/Saved/Crashes/
+UnbreakablePhone/Saved/Logs/
 
 # Ignore macOS system files
 .DS_Store
@@ -108,14 +108,14 @@ Unbreakable_Phone/Saved/Logs/
 .vscode/
 
 # Ignore Unreal Engine auto-generated config files
-Unbreakable_Phone/Config/DefaultEditorPerProjectUserSettings.ini
-Unbreakable_Phone/Config/DefaultEditor.ini
-Unbreakable_Phone/Config/DefaultGame.ini
-Unbreakable_Phone/Config/DefaultEngine.ini
+UnbreakablePhone/Config/DefaultEditorPerProjectUserSettings.ini
+UnbreakablePhone/Config/DefaultEditor.ini
+UnbreakablePhone/Config/DefaultGame.ini
+UnbreakablePhone/Config/DefaultEngine.ini
 
 # Keep necessary assets
-!Unbreakable_Phone/Content/
-!Unbreakable_Phone/Source/
+!UnbreakablePhone/Content/
+!UnbreakablePhone/Source/
 
 # Keep custom configuration files
-!Unbreakable_Phone/Config/
+!UnbreakablePhone/Config/
