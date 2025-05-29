@@ -69,9 +69,9 @@
 # Ignore Visual Studio Code settings
 .vscode/
 
-# */[Bb]uild
-# */[Bb]uilds
-# */Binaries
-# */DerivedDataCache
-# */Intermediate
-# */Saved
+*/[Bb]uild
+*/[Bb]uilds
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
